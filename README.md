@@ -1,6 +1,6 @@
 # Real-time communication app
 
-This app was built as part of my honors research project. It is provides the following functionality
+This app was built as part of my honors research project. It provides the following functionality
 1. Instant messaging
 2. File sharing
 3. Audio calling
@@ -10,7 +10,7 @@ This app was built as part of my honors research project. It is provides the fol
 
 Check out the live demo: https://rtctest11.herokuapp.com/
 
-This app is build using NodeJS, Express.js, Socket.io, and WebRTC (using the EasyRTC framework)
+This app was built using NodeJS, Express.js, Socket.io, and WebRTC (using the EasyRTC framework)
 
 ## How to run the project?
 
