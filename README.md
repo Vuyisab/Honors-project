@@ -10,7 +10,7 @@ This app was built as part of my honors research project. It is provides the fol
 
 Check out the live demo: https://rtctest11.herokuapp.com/
 
-This app is build using NodeJS, Socket.io, and WebRTC
+This app is build using NodeJS, Express.js, Socket.io, and WebRTC (using the EasyRTC framework)
 
 ## How to run the project?
 
